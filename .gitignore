@@ -1,0 +1,6 @@
+# dev/packing intermediates - never committed (repo size cap 8,192 bytes)
+src_*.py
+main_*.py
+abl_*
+junk*
+__pycache__/
